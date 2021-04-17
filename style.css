@@ -1,0 +1,55 @@
+
+h1 {
+    color: black;
+  }
+.sarga{
+    filter: sepia(100%);  
+}
+
+
+
+.centeredH {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.yeees{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bal{
+    margin-right: -150px;
+}
+
+.line{
+    background-image: url(img/vonal.png);
+}
+
+.plus{
+   background-image: url(img/pluszjel.png);
+}
+
+.middle{
+    margin-right: -190px;
+}
+
+.equal{
+    
+    margin-right: -260px;
+}
+
+.firstRow{
+    margin-left: px;
+}
+
+.secondRow{
+    margin-left: 40px;
+}
+
+.sarga{
+    filter: sepia(100%);
+}
